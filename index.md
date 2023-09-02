@@ -1,5 +1,8 @@
-## Welcome to GitHub Pages
-
+# John Wang's First CS193 Homework
+Some of my favorite things about CS193:
+- We learn about many important tools that we will need in the future
+- No exams or textbooks!
+- Much more relaxed classroom environment compared to other classes
 
 
 # Test header one
