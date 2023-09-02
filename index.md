@@ -1,5 +1,29 @@
 ## Welcome to GitHub Pages
 
+
+
+# Test header one
+- wow, this is a bulleted list!
+- we are under test header one right now.
+
+## Test header two
+1. wow, this is a numbered list!
+2. we are under test header two right now.
+3. this is the third element in this numbered list.
+
+### test header three
+- I'm **bold!**
+- I'm _Italicized!_
+- I'm `code!`
+
+```
+wow a codeblock!
+another line of codeblock
+and another
+```
+
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
